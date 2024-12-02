@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Frontend build files (React)
+frontend/build/
+frontend/node_modules/
+
+# Backend logs
+backend/logs/
+
+backend/node_modules/
+
+# Environment files
+.env
+*.env
+
+
